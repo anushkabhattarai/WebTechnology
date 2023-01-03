@@ -1,0 +1,183 @@
+      body{
+        margin:0;
+        padding:0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+      .one{
+        background-color: rgb(17, 41, 8);
+        color:rgb(254, 254, 254);
+        width:100%;
+        margin:auto;
+        height: 750px;
+      }
+      .one img{
+        width: 50%;
+        margin-left: 50%;
+        height: 100%;
+      }
+      .one .left{
+        margin-left: 100px;
+        margin-top: -750px;
+      }
+      .one h1{
+        font-size: 72px;
+        margin-bottom: 20px;
+      }
+      
+      .one h2{
+        font-size: 26px;
+        font-weight: 200;
+        margin-bottom: 30px;
+      }
+      .one p{
+        font-size: 16px;
+        font-weight: 100;
+        margin-top: 100px;
+        margin-bottom: 40px;
+      }
+      .one #black{
+        background-color: yellow;
+        color: black;
+        width: fit-content;
+        padding: 0;
+        border-radius: 40px;
+        font-weight: bold;
+      }
+      .two{
+        background-color: rgb(116, 177, 116);
+        color: aliceblue;
+        width: 100%;
+        margin: auto;
+        height: 750px;
+      }
+      .two h1{
+        font-size: 52px;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        max-width: 40%;
+      }
+      .two p{
+        font-size: 20px;
+        margin-top: -200px;
+        margin-left: 800px;
+        max-width: 30%;
+      }
+      .two img{
+        width: 90%;
+        height: 400px;
+        margin-top: 50px;
+        margin-left: 100px;
+        margin-bottom: 10px;
+      }
+      .three{
+        background-color: rgb(194, 150, 38);
+        color: black;
+        width: 100%;
+        margin: auto;
+        height: 750px;
+    }
+    
+    .three h1{
+        font-size: 52px;
+        text-align: center;
+    }
+    
+    .three img{
+        width: 350px;
+        height: 350px;
+        display: inline-block;
+        width: 350px;
+        height: 425px;
+        padding: 0 25px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .content{
+        text-align: center;
+    }
+    
+    .content h2{
+        font-size: 24px;
+        font-weight: 800;
+        margin-bottom: 10px;
+        padding: 0 90px;
+        display: inline-block;
+    }
+    
+    .content p{
+        font-size: 18px;
+        font-weight: 100;
+        padding: 0 150px;
+        display: inline-block;
+    }
+    .four{
+      background-color: rgb(147, 181, 134);
+      color:rgb(254, 254, 254);
+      width:100%;
+      margin:auto;
+      height: 750px;
+    }
+    .four img{
+      width: 50%;
+      margin-right: 50%;
+      height: 100%;
+    }
+    .four .right{
+      margin-right: 100px;
+      margin-top: -750px;
+    }
+    .four h1{
+      font-size: 60px;
+      margin-top: -200px;
+      margin-left: 800px;
+      max-width: 30%;
+      margin-bottom: 30px;
+    }
+    .four h2{
+      font-size: 28px;
+        margin-left: 800px;
+        max-width: 30%;
+        margin-top: 100px;
+        margin-bottom: 40px
+    }
+    .five{
+      background-color: rgb(17, 41, 8);
+      color:rgb(254, 254, 254);
+      width:100%;
+      margin:auto;
+      height: 750px;
+    }
+    .five img{
+      width: 50%;
+      margin-left: 50%;
+      height: 100%;
+    }
+    .five .left{
+      margin-left: 100px;
+      margin-top: -750px;
+    }
+    .five h1{
+      font-size: 72px;
+      margin-bottom: 20px;
+    }
+    
+    .five h2{
+      font-size: 26px;
+      font-weight: 200;
+      margin-bottom: 30px;
+    }
+    .five p{
+      font-size: 16px;
+      font-weight: 100;
+      margin-top: 100px;
+      margin-bottom: 40px;
+    }
+    .five #black{
+      background-color: yellow;
+      color: black;
+      width: fit-content;
+      padding: 0;
+      border-radius: 40px;
+      font-weight: bold;
+    }
